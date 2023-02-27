@@ -128,7 +128,8 @@ func (i Item) String() string {
 	for _, l := range i.Lines {
 		os = append(os, l.String())
 	}
-	return strings.Join(os, " - ")
+	// Original code was returning strings.Join(os, " - ") which is not correct.
+	return strings.Join(os, "\n")
 }
 
 // Color represents a color
