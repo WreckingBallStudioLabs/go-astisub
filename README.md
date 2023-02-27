@@ -1,5 +1,5 @@
-[![GoReportCard](http://goreportcard.com/badge/github.com/asticode/go-astisub)](http://goreportcard.com/report/github.com/asticode/go-astisub)
-[![GoDoc](https://godoc.org/github.com/asticode/go-astisub?status.svg)](https://godoc.org/github.com/asticode/go-astisub)
+[![GoReportCard](http://goreportcard.com/badge/github.com/WreckingBallStudioLabs/go-astisub)](http://goreportcard.com/report/github.com/WreckingBallStudioLabs/go-astisub)
+[![GoDoc](https://godoc.org/github.com/WreckingBallStudioLabs/go-astisub?status.svg)](https://godoc.org/github.com/WreckingBallStudioLabs/go-astisub)
 [![Travis](https://travis-ci.com/asticode/go-astisub.svg?branch=master)](https://travis-ci.com/asticode/go-astisub#)
 [![Coveralls](https://coveralls.io/repos/github/asticode/go-astisub/badge.svg?branch=master)](https://coveralls.io/github/asticode/go-astisub)
 
@@ -13,11 +13,11 @@ Available operations are `parsing`, `writing`, `applying linear correction`, `sy
 
 To install the library:
 
-    go get github.com/asticode/go-astisub
+    go get github.com/WreckingBallStudioLabs/go-astisub
 
 To install the CLI:
 
-    go install github.com/asticode/go-astisub/astisub        
+    go install github.com/WreckingBallStudioLabs/go-astisub/astisub        
 
 # Using the library in your code
 
